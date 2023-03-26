@@ -2,7 +2,7 @@
 <br>
 
 <p align="center">
-  <img src="./assets/images/screenshot.png" alt="TODO List"  width="100%">
+  <img src="./screenshot.png" alt="TODO List"  width="100%">
 </p>
 
 ## 💻 About the project:
